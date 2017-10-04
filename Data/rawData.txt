@@ -1,0 +1,77 @@
+1	Andrew	Johnson	GASO	11.08	10.94
+2	La'kai	Whatley	GASO	11.20	11.05
+3	Josh	Idachaba	MIZZ	11.33	11.24
+4	Chaz	Williams	GASO	11.36	11.25
+5	Garret	Shoemaker	IURC	11.42	11.38
+6	Ed	Lockwood	IURC	11.46	11.45
+7	Devin	Beach	MRUN	11.47	11.47
+8	Cameron	Stinson	PSU	11.47	11.52
+9	Trevor	Edgerton	IURC	11.52	11.53
+10	Stephen	Finley	OSU	11.52
+11	Garret	Barch	ILL	11.54
+12	Fletcher	Quigley	OSU	11.55
+13	Kevin	Sager	ILL	11.58
+14	Tomi	Aluko	GASO	11.63
+14	Alex	Bienduga	ILL	11.63
+16	Peter	Van Beek	WISC	11.65
+17	Sam	Parker	IAST	11.70
+18	Cameron	Collins	GASO	11.71
+19	Jared	Duke	TLDO	11.76
+20	Jordan	Walsh	MRUN	11.77
+21	Dan	Xia	UVA	11.78
+22	Jonathan	Shinholt	MARY	11.81
+23	Brian	kipkulei	IURC	11.83
+24	Bryce	Rasmussen	MINN	11.84
+25	William	Jordan	WISC	11.86
+26	Jonathan	Owens	GASO	11.92
+27	Spencer	Clinton	SJU	11.93
+28	Kyle	Purnell	PSU	11.93
+29	Jeffrey	Mate	PSU	11.94
+30	Thomas	Harris	ILL	11.94
+31	Theodore	Endresen	MRUN	11.97
+32	Geson	Chong	VT	11.97
+33	Wesley	Shaw	GASO	11.98
+34	Max	Ritzow	WISC	11.98
+35	Zack	Toto	CONN	11.99
+35	Ben	Bruciati	CONN	11.99
+37	Chris	Osborn	OSU	12.05
+38	John	Arnold	PSU	12.06
+39	Stephen	Messing	CMIU	12.07
+40	Tyler	Rush	GVSU	12.08
+41	Devin	McClenton	MSU	12.11
+42	Matthew	Matusz	MRUN	12.15
+43	Kevin	Conchieri	OSU	12.15
+44	Austin	Juelfs	WVU	12.16
+45	John	Brandenburg	ILL	12.19
+46	Kamonpob	Sangthong	PSU	12.19
+47	Isiah	Wilt	UVA	12.20
+48	Brendan	Schroeder	SJU	12.20
+49	Jun Sup	Park	MRUN	12.20
+50	Logan	Soldo	MSU	12.21
+51	Eric	Hyames	MSU	12.26
+52	William	Noles	MSU	12.26
+53	Daniel	Gates	PSU	12.30
+54	Braxton	Smith	IURC	12.31
+54	Griffin	Hyde	VT	12.31
+56	Bryan	Watson	WISC	12.31
+57	Zach	Lorance	WVU	12.32
+58	Riley	Clark	VT	12.33
+59	Jacob	Barber	IAST	12.35
+60	Helder	Dinis	MSU	12.41
+61	Kevin	Mahan	JMU	12.45
+62	Alex	Dansberger	VT	12.65
+63	Seth	Rouch	OSU	12.67
+64	Marvellous	Olowookere	OSU	12.68
+65	Jorge	Chavez	ILL	12.70
+66	Jihoon	Heo	PSU	12.85
+67	Drew	Lis	PSU	12.87
+68	Ryan	Bartee	GMU	13.01
+69	Michael	Conway	SEMO	13.02
+70	Garrett	Skinner	PSU	13.05
+71	Robert	Schlosser	CONN	13.15
+72	John George	Armstrong	PENN	13.18
+73	Ian	Lynch	MARY	13.27
+74	Matt	Toomel	MRUN	13.62
+75	Riley	Turk	PURD	13.80
+76	Gabriel	Kardia	MRUN	14.22
+77	John	Stackhouse	GASO	19.22

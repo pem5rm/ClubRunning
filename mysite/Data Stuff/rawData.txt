@@ -1,0 +1,92 @@
+1	1	University of Michigan	Peterson	Lucas		26:15.90
+2	2	University of Michigan	Pendergast	Ross		26:46.90
+3		Miami University of Ohio	Alexander	Robby		27:07.90
+4	3	University of Michigan	Kenney	Patrick		27:21.10
+5	4	University of Michigan	Schroeder	Sam		27:30.60
+6	5	University of Michigan	Horn	RIley		27:32.60
+7	6	Michigan State University	Young	Jacob		27:40.00
+8	(7)	University of Michigan	Maternowski	Nicholas		27:40.90
+9	8	Michigan State University	Salach	Paul		27:41.40
+10	9	Central Michigan University	Stanek	Alexander		27:48.60
+11	(10)	University of Michigan	Trimas	David		27:51.10
+12	11	Michigan State University	Werner	Lucas		27:51.80
+13		University of Michigan	Bersche	Luke		27:58.20
+14		University of Toledo	Messer	Andrew		28:10.10
+15		University of Michigan	Anderson	Ben		28:11.10
+16		University of Michigan	Sjogren	Jacob		28:12.30
+17	12	Central Michigan University	Garbovits	Kyle		28:19.90
+18		Bowling Green State University	Preece	Blake		28:24.70
+19	13	Michigan State University	VanPelt	Riley		28:25.50
+20		University of Michigan	Boerger	Colin		28:26.40
+21		University of Michigan	Herkenham	Buddy		28:36.90
+22		University of Toledo	Messer	Derek		28:43.40
+23	14	Central Michigan University	Kubinski	Jacob		28:51.00
+24	15	Michigan State University	Reilly	Alec		28:51.20
+25	(16)	Michigan State University	Hegger	Joe		28:54.60
+26		University of Michigan	Aman	Casey		28:58.20
+27	17	Ball State University	Nordmann	Nicholas		29:14.50
+28		University of Michigan	Ursaki	Justin		29:18.90
+29	(18)	Michigan State University	Lambert	Ben		29:20.40
+30		University of Michigan	Harris	Micah		29:28.50
+31		University of Michigan	Girgis	Alex		29:31.50
+32		University of Michigan	Lathia	Umang		29:32.30
+33		University of Michigan	Foley	Connor		29:37.50
+34		University of Michigan	Martin	Timmy		29:41.90
+35	19	Central Michigan University	Czarnopy	Alecsandr		29:46.90
+36		Michigan State University	Crusoe	Colin		29:50.40
+37		University of Michigan	Horwitz	Ryan		29:50.90
+38		University of Michigan	Shames	Jacob		29:51.10
+39	20	Central Michigan University	Robinson	Garrett		29:51.90
+40	21	Ball State University	Happe	Drew		29:55.40
+41	(22)	Central Michigan University	Croad	Casey		29:55.90
+42		University of Michigan	Redetzke	Nolan		29:57.10
+43		Michigan State University	Broman	Jacob		30:06.50
+44		University of Michigan	Todd	Connor		30:09.40
+45		University of Michigan	Webb	Owen		30:11.10
+46		University of Michigan	Stevens	Devin		30:11.30
+47		University of Michigan	Grayeb	Ethan		30:13.50
+48		Michigan State University	Hittner	Dietrich		30:18.10
+49		Bowling Green State University	Mounce	Christopher		30:18.70
+50		University of Michigan	Wohlfeil	Anthony		30:33.90
+51		University of Michigan	Eusebio	Teddy		30:43.20
+52		Michigan State University	Canna	Ryan		30:47.00
+53		University of Michigan	Kitson	Ryan		30:58.90
+54		University of Michigan	Schuler	Joe		31:16.50
+55		University of Michigan	Tanner	Jacob		31:21.80
+56	(23)	Central Michigan University	Kohler	Brandon		31:30.90
+57		University of Michigan	Shafer	Nicholas		31:41.90
+58		University of Michigan	Heymann	Sacha		31:43.10
+59		Michigan State University	Blaida	Adam		31:45.40
+60		Central Michigan University	Niska	John		31:52.40
+61		University of Michigan	Thelen	Marshall		31:55.20
+62		University of Michigan	Zarrabi	Ali		31:56.60
+63		University of Michigan	LaCerva	Nick		32:00.90
+64		University of Michigan	Booker	Brennan		32:01.40
+65		Michigan State University	Wholihan	Matthew		32:02.00
+66		Michigan State University	Huard	Nick		32:18.40
+67	24	Ball State University	Powell	Jacob		32:25.50
+68		University of Michigan	Misch	Parker		33:30.90
+69		University of Michigan	Heintzelman	Bradley		33:47.50
+70	25	Ball State University	Wu	Adam		33:48.90
+71		University of Michigan	Flanagan	Peter		33:59.00
+72		University of Michigan	Straus	Eli		34:37.80
+73		Central Michigan University	Martino	Nino		35:14.20
+74		University of Michigan	Sollish	Will		35:19.80
+75		University of Michigan	Collis	Jackson		35:21.50
+76	26	Ball State University	Hook	Kevin		35:24.60
+77		Michigan State University	Spehn	Jack		35:31.20
+78		Central Michigan University	Brindley	Mitchell		35:41.60
+79	(27)	Ball State University	Brown	John		35:59.90
+80		Washtenaw Community College	Burwell	Devon		36:17.10
+81		Michigan State University	Showers	Cole		36:18.90
+82		Bowling Green State University	Csukker	Jacob		36:19.30
+83		University of Michigan	Martire	Nick		36:31.80
+84		Michigan State University	Zelent	Nate		36:47.60
+85	(28)	Ball State University	Herin	Ryon		37:49.20
+86		Michigan State University	Bowman	Lucas		37:59.20
+87		Central Michigan University	Tudor	Tyler		38:27.30
+88		University of Michigan	Caplow	Maxwell		38:32.20
+89		Michigan State University	Virden	Sean		38:58.40
+90		Ball State University	Trauner	Brent		40:59.60
+91		Ball State University	Robertson	Grant		42:52.80
+92		Central Michigan University	Herrera	Roberto		48:41.00

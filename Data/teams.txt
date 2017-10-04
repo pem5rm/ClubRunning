@@ -1,0 +1,64 @@
+['Harvard University', 'University of Connecticut', 'Providence College', 'Bosto
+n University', 'University of Massachusetts Amherst', 'University of Massachuset
+ts Amherst Coyne', 'University of Virginia von', 'Duke University', 'University
+of North Carolina', 'University of Virginia', 'University of Georgia', 'Clemson
+University', 'Wake Forest University', 'George Mason University', 'University of
+ Virginia Vice-Van', 'Duke University Lawrence', 'University of Virginia Adams',
+ 'University of North Carolina Gates', 'Washington University', 'Purdue Universi
+ty', 'Illinois State University', 'Loyola University Chicago', 'Purdue Universit
+y Wilson', 'Bradley University', 'Saint Louis University', 'Northeastern Univers
+ity', 'Yale University', 'Yale University Kenney', 'Virginia Tech', 'James Madis
+on University', 'College of William and Mary', 'George Washington University', '
+University of Maryland Baltimore County', 'West Virginia University', 'American
+University', 'James Madison University von', 'University of Florida', 'North Car
+olina State University', 'University of Maryland', 'North Carolina State Univers
+ity te', 'University of North Carolina, Charlotte', 'East Carolina University',
+'University of Georgia du', 'University of South Carolina', 'University of Michi
+gan', 'University of Cincinnati', 'Indiana University', 'Miami University of Ohi
+o', 'Ohio State University', 'Central Michigan University', 'Ball State Universi
+ty', 'Ball State University Thomas', 'University at Buffalo', 'University of Akr
+on', 'University of Notre Dame', 'Grand Valley State University', 'Michigan Stat
+e University', 'University of Toledo', 'University of Notre Dame Babbo', 'Univer
+sity of Pennsylvania', 'Penn State University', 'Georgetown University', 'Prince
+ton University', 'Binghamton University', "St. John's University", 'Princeton Un
+iversity Burt', 'Rutgers University', 'Cornell University', 'George Mason Univer
+sity Garzon Hervas', 'Syracuse University', 'Cornell University Ji', 'University
+ of Oregon', 'Towson University', 'Lehigh University', 'Loyola University Maryla
+nd', 'Drexel University', '(7) University of Michigan', '(10) University of Mich
+igan', 'Bowling Green State University', '(16) Michigan State University', '(18)
+ Michigan State University', '(22) Central Michigan University', '(23) Central M
+ichigan University', '(27) Ball State University', 'Washtenaw Community College'
+, '(28) Ball State University', '(11) Michigan State University', '(13) Universi
+ty of Michigan', '(14) University of Michigan', '(15) Michigan State University'
+, '(20) Central Michigan University', 'James Madison University Peyton', 'Old Do
+minion University', '(8) Penn State University', '(9) Penn State University', '(
+13) University of Pennsylvania', '(14) University of Pennsylvania', 'Penn State
+University St.', 'Georgia Tech', 'University of North Carolina, Asheville', 'Fur
+man University', 'University of Pittsburgh', 'University of Tennessee', 'North C
+arolina State University Guisasola', 'Appalachian State University', 'University
+ of Dayton', 'University of Kentucky', 'Cleveland State University', 'Xavier Uni
+versity', 'Michigan State University Van', 'University of Kentucky Von', 'Iowa S
+tate University', 'University of California, Davis', 'California Polytechnic Sta
+te University', 'University of Illinois', 'Stanford University', 'University of
+Delaware', 'University of Texas - Austin', 'University of Minnesota', 'Villanova
+ University', 'University of Delaware Del', 'Northeastern University Hinchen', '
+Tarleton State University', 'Northwestern University', 'University of Missouri',
+ 'University of Missouri de', 'Northeastern University Nelson', 'Sacred Heart Un
+iversity', 'University of Kansas', 'Northeastern University de', 'Indiana Univer
+sity Darmody', 'Ohio State University Gonzalez', '< 5 Bowling Green State Univer
+sity', 'Christopher Newport University', 'Rutgers University De', 'Oakland Unive
+rsity', 'Central Michigan University Van', 'University of Pennsylvania Lindner',
+ 'University of Wisconsin', 'Michigan University', 'State University', 'Valley S
+tate University', 'James Madison University Arias', 'University of Virginia McGe
+hee', 'University of Pittsburgh Grejuras', 'North Carolina State University Chan
+dler', 'University of California, Los Angeles', 'University of Nevada, Reno', 'U
+niversity of California Riverside', 'California State University Channel Islands
+', 'California State University Sacramento', 'University of Notre Dame Del', 'Oh
+io State University Von', 'Brown University', 'University of Vermont', 'Providen
+ce College St.', 'University at Buffalo Von', 'Yale University Zander-Velloso',
+'Marquette University', 'University of Nebraska - Lincoln', 'University of Kansa
+s Trooien', 'University of Kansas Villarreal', 'Marquette University Fries', 'Cr
+eighton University', "Stanford University Bear Don't Walk", 'University of Pitts
+burgh Grguras', 'University of Pittsburgh Meehan', 'University of Massachusetts,
+ Lowell', 'University of Massachusetts, Lowell de', 'Harvard University de Sa e'
+, 'Cornell University van', 'University of Colorado at Boulder']
