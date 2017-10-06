@@ -106,3 +106,15 @@ for r in results:
         r.team = "University of North Carolina"
         r.save()
 
+
+
+#Fix () scores
+from myapp.models import RaceTime
+results = RaceTime.objects.all()
+for r in results:
+    if ("(" in r.team) and (")" in r.team):
+        s = r.team.strip("(").split(")")
+        r.score = "(" + s[0] + ")"
+        r.team = s[1].strip()
+        r.save()
+
