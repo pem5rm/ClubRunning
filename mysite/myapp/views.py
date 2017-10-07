@@ -433,7 +433,7 @@ class MeetView(generic.ListView):
 
 
 class TeamView(generic.ListView):
-    template_name = 'myapp/Team.html'
+    template_name = 'myapp/team.html'
 
     def get_queryset(self):
         return None

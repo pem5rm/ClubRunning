@@ -24,7 +24,7 @@ SECRET_KEY = '_5y^jb1&!-nxvkxi#ta2f)trv161on9xs!&p-gwqz&rv_dx5ba'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pem5rm.pythonanywhere.com']
 
 
 # Application definition
@@ -119,3 +119,5 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
 STATIC_URL = '/static/'
+
+STATIC_ROOT = "/home/pem5rm/ClubRunning/mysite/static"
