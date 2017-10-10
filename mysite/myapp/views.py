@@ -18,7 +18,7 @@ import string
 from .models import RaceTime
 import operator, functools
 
-CURRENT_YEAR = "2016"
+CURRENT_YEAR = "2017"
 
 
 class IndexView(generic.ListView):
@@ -502,7 +502,7 @@ class AllMeetsView(generic.ListView):
         all_meets = [[], [], [], []]
 
         for m in meets.keys():
-            all_meets[0].append(m.replace(" (2016)", "").replace(" (2015)", ""))
+            all_meets[0].append(m.replace(" (2017)", "").replace(" (2016)", "").replace(" (2015)", ""))
             all_meets[1].append(meets[m]["date"])
             all_meets[2].append(",".join(meets[m]["events"]))
             all_meets[3].append(meets[m]["participants"])

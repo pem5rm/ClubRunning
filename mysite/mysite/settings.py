@@ -24,7 +24,7 @@ SECRET_KEY = '_5y^jb1&!-nxvkxi#ta2f)trv161on9xs!&p-gwqz&rv_dx5ba'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['pem5rm.pythonanywhere.com']
+ALLOWED_HOSTS = ['pem5rm.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition

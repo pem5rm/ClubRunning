@@ -68,7 +68,7 @@ def parseEventData(event, meet, date, location, host, gender, bib="N/A", session
     file2 = open("nircaData.csv", "a")
 
     for line in file:
-        line = line.replace("(> 7)", "").replace("(", "").replace(")", "")
+        line = line.replace("(> 7)", "").replace("(<5)", "").replace("(>7)", "").replace("(", "").replace(")", "")
         line = line.strip().split()
 
         #if there is a score
@@ -110,7 +110,12 @@ def parseEventData(event, meet, date, location, host, gender, bib="N/A", session
 # def parseEventData(event, meet, date, location, host, gender, bib="N/A", session="N/A"):
 
 
-parseEventData("6K", "Pacific Regional", "2016-10-29 00:00:00", "Crystal Springs Cross Country Course", "NIRCA and NU Club Running", "1")
+parseEventData("6K",
+               "University of Oregon Running Club Invitational",
+               "2017-10-07 00:00:00",
+               "Amazon Park Trailhead",
+               "University of Oregon Running Club",
+               "1")
 
 
 
